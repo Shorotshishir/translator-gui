@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 googletrans = "==4.0.0rc1"
 ttkthemes = "*"
+auto-py-to-exe = "*"
 
 [dev-packages]
 
