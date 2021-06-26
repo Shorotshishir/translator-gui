@@ -1,10 +1,10 @@
 # Translator App - Tkinter
 
-# Technology
+## Technology
 - python 3.9
 - googletrans 4.0.0rc1
 
-# How to 
+## How to 
 - __NEED active Internet Connection__
 - Using `pipenv` create a virtualenv
 - from inside run `main.py`
